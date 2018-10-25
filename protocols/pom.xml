@@ -11,7 +11,9 @@
 
     <artifactId>protocols</artifactId>
     <packaging>pom</packaging>
-
+    <modules>
+        <module>openflow</module>
+    </modules>
 
 
 </project>
